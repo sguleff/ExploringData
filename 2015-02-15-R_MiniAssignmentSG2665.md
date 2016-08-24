@@ -219,26 +219,26 @@ plotAltBinMap(Allcollisions, "Times Square, New York", 12, 60, "Potential Causes
 
 **Aggregated 5 years of traffic accidents showing most likely locations of accidents within neighborhoods or boroughs.**
 
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accColumbia.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accMidtown.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accBrooklyn.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accQueens.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accBronx.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_accStatenIsland.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accColumbia.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accMidtown.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accBrooklyn.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accQueens.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accBronx.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_accStatenIsland.png)
 
 **Aggregated 5 years of traffic accidents showing pedestrian & cyclist accidents within neighborhoods or boroughs.**
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_pedColumbia.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_pedNYC.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_pedColumbia.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_pedNYC.png)
 
 **Bins on map showing where deadly accidents have occurred by pedestrian & cyclist.**
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_deathbin.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_deathbin.png)
 
 **Attempt to plot accident density overlaied onto New York City map.**
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_densityplot.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_densityplot.png)
 
 **Bins on map showing possible causes of accidents**
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_altbin1.png)
-![](https://raw.githubusercontent.com/sguleff/edav/assignmentbranch/_posts/sguleff/sg2665_altbin2.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_altbin1.png)
+![](https://github.com/sguleff/ExploringData/blob/master/sguleff/sg2665_altbin2.png)
 
 **Time Lapse and 3D Map**
 [Data Time Lapse Video and 3D Map Sample](http://youtu.be/bNzFT5QjUys)
